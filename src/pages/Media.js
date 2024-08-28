@@ -28,7 +28,7 @@ function Media() {
   );
 
   return (
-    <main className="md:m-6 m-auto max-w-[1280px] ">
+    <main className="md:m-6 m-auto max-w-full">
       <Navbar />
 
       <section className="mb-12">

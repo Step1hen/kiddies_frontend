@@ -118,7 +118,7 @@ function About() {
   };
 
   return (
-    <main className="md:m-6 m-auto max-w-[1280px] ">
+    <main className="md:m-6 m-auto max-w-full">
       <Navbar />
       <HeaderHero properties={heroProperties} />
 
@@ -163,7 +163,7 @@ function About() {
                                 size={60}
                               />
                             }
-                            maintext="Mission"
+                            maintext="Vision"
                             subtext={aboutData.vision}
                           />
                         </div>
