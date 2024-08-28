@@ -1,6 +1,6 @@
 # Purpose
 
-Alternative Technology Considerations: For the backend framework, ExpressJS was evaluated. ExpressJS is well-established and offers more flexibility and large package access suitable for medium to larger applications. I choose NodeJS if it works, if not we will move to PHP which is also a more lenient and easy to use technology which will speed up our development process while providing similar capabilities.
+Alternative Technology Considerations: For the backend framework, ExpressJS was evaluated. ExpressJS is well-established and offers more flexibility and large package access suitable for medium to larger applications. I choose NodeJS if it works, if not I will move to PHP which is also a more lenient and easy to use technology which will speed up the development process while providing similar capabilities.
 
 # Challenge Statement
 
